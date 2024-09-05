@@ -1,4 +1,3 @@
-**This is Bold Text**
 ## Sales Report :
 
 
